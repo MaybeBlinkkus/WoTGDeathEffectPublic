@@ -1,0 +1,41 @@
+Mods: {
+	WotGDeath: {
+		Configs: {
+			WotGDeathConfig: {
+				DisplayName: WoTG Death Config
+
+				Headers: {
+					EffectConfig: Effect Config
+					VisualsConfig: Visuals Config
+				}
+
+				ScreenShakeIntensity: {
+					Label: Screenshake Intensity
+					Tooltip: How intense the screenshake effect is
+				}
+
+				ShakeDissipationRate: {
+					Label: Shake Dissipation Rate
+					Tooltip: How fast the shake dissipates
+				}
+
+				OverrideYouWereSlain: {
+					Label: Toggle You Were Slain Override
+					Tooltip: Toggles if "You were slain..." is replaced
+				}
+
+				TextOffset: {
+					Label: Toggle Text Offset
+					Tooltip: Toggles if the text offset is higher than usual
+				}
+
+				RipperBreakVolume: {
+					Label: Volume Percentage
+					Tooltip: Changes the volume of the sound effect that plays upon death
+				}
+			}
+		}
+
+		Dialog.OverridenDeathText: You have failed the test.
+	}
+}

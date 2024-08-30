@@ -1,0 +1,8 @@
+Makes the death effect that you get during the Nameless Deity fight from WotG(Wrath of the Gods) Mod the natural death effect.
+AerialiteOre was the one that asked for this mod to be made, therefore they will get credit for the creation of this mod as well.
+
+Any bugs or glitches found should be reported to @blinkkus or @aerialite_ on discord
+
+Planned Updates:
+- Replace the respawn timer with a negative timer like in WotG
+- Add Burst Particle upon player death

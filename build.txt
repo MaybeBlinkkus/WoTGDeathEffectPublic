@@ -1,0 +1,5 @@
+displayName = WoTG Death Effect
+author = blinkkus, AerialiteOre
+version = 2.0.1.2
+modReferences = Luminance
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, LICENSE, README.md, .editorconfig, .gitignore, .gitattributes, Assets\Effects\Compiler\*
